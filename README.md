@@ -13,7 +13,7 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 <br>
 
-**📫 How to reach me:**
+**📫 Find me at:**
 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
