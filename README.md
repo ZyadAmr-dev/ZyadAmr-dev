@@ -102,14 +102,27 @@ I am a software engineer with a passion for building large-scale projects, focus
 
 ### 🔗 Misc
 
-<p align="left">
-<!-- <a href="https://twitter.com/zyad_onlyone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyad_onlyone" height="30" width="40" /></a> -->
+<p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <!-- Uncomment if you want Twitter -->
+  <!-- <a href="https://twitter.com/zyad_onlyone" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyad_onlyone" height="30" width="40" />
+  </a> -->
 
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)  
-<a href="https://codeforces.com/profile/ziiad309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ziiad309" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zyadamr-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zyadamr-dev" height="30" width="40" /></a>
+  <span style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
+  </span>
+  <span style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </span>
+
+  <a href="https://codeforces.com/profile/ziiad309" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ziiad309" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/zyadamr-dev" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zyadamr-dev" height="30" width="40" />
+  </a>
 </p>
+
 
 
 
