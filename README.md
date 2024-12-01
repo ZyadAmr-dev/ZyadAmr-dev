@@ -12,7 +12,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; text-decoration:none">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin-right: 15px;"/>
   </a>
