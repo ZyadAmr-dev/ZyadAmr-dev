@@ -87,8 +87,8 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 > Keep it simple, STUPID!
 
-- [**Project Name**](https://github.com/yourusername/project-name): Brief description of the project.
-- [**Another Project**](https://github.com/yourusername/another-project): Brief description of the project.
+- [***Project Name***](https://github.com/yourusername/project-name): Brief description of the project.
+- [***Another Project***](https://github.com/yourusername/another-project): Brief description of the project.
 
 ---
 
