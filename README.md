@@ -32,9 +32,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin-right: 15px;"/>
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+<!--   <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/NestJS_logo.svg" alt="nestjs" width="50" height="50" style="margin-right: 15px;"/>
-  </a>
+  </a> -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin-right: 15px;"/>
   </a>
