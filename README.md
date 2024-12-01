@@ -1,5 +1,9 @@
 # Hi there 👋, I'm Zyad!
 
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
 ### 🌟 Who Am I ?
 
 I am a software engineer with a passion for building large-scale projects, focusing on distributed systems and optimization. I apply my skills to simplify complex tasks and improve efficiency, specializing in full-stack web development. My interests include statistics, probability, and mathematics, which I use in data engineering and feature extraction. I am particularly fascinated by the potential of machine learning and deep learning to predict future outcomes and solve real-world problems.
