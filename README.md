@@ -34,3 +34,9 @@
 [![Logo](https://raw.githubusercontent.com/ZyadAmr-dev/ZyadAmr-dev/master/images/logos/linkedin.png)](https://www.example.com)
 [![Logo](https://raw.githubusercontent.com/ZyadAmr-dev/ZyadAmr-dev/master/images/logos/X.png)](https://www.example.com)
 [![Logo](https://raw.githubusercontent.com/ZyadAmr-dev/ZyadAmr-dev/master/images/logos/hashnode.png)](https://www.example.com)
+
+
+![hashnode](https://github.com/user-attachments/assets/7a548907-75b6-4ef8-a011-e502fd46a5c2)
+![linkedin](https://github.com/user-attachments/assets/387a690d-f557-497f-8250-5975e1aee148)
+![X](https://github.com/user-attachments/assets/dd4df14d-74cd-4ece-abad-3100b05d386a)
+
