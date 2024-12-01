@@ -6,6 +6,8 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 <br>
 
+<div style="display: flex;">
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)  
 
@@ -13,6 +15,7 @@ I am a **software engineer** passionate about building **large-scale projects** 
   
   **![Followers](https://img.shields.io/github/followers/ZyadAmr-dev?label=Followers&style=social)**
   
+</div>
 </div>
 
 ---
