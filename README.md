@@ -1,10 +1,8 @@
 # Hi there 👋, I'm Zyad!
 
-### 🌟 About Me
-- 💻 I'm a Computer Science student passionate about technology and programming.
-- 🌱 Currently learning: [Insert what you're currently learning, e.g., Machine Learning, Web Development, etc.]
-- 🎯 Goals: [Insert your goals, e.g., "Contribute to open-source projects" or "Build scalable web applications."]
-- ⚡ Fun fact: [Insert something interesting about yourself, e.g., "I love solving puzzles!"]
+### 🌟 Who Am I ?
+
+I am a software engineer with a passion for building large-scale projects, focusing on distributed systems and optimization. I apply my skills to simplify complex tasks and improve efficiency, specializing in full-stack web development. My interests include statistics, probability, and mathematics, which I use in data engineering and feature extraction. I am particularly fascinated by the potential of machine learning and deep learning to predict future outcomes and solve real-world problems.
 
 ---
 
