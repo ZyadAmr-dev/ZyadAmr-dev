@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin-right: 15px;"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50" style="margin-right: 15px;"/>
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg](https://www.google.com/imgres?q=nestjs%20logo&imgurl=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Fnestjs-node-js1721157583.logowik.com.webp&imgrefurl=https%3A%2F%2Flogowik.com%2Fnestjs-node-js-logo-vector-71288.html&docid=LaKqaqHcY2NEdM&tbnid=k2YZ2XpbWCGpxM&vet=12ahUKEwic44PfiIeKAxXzdqQEHVo1PXEQM3oECGUQAA..i&w=866&h=650&hcb=2&ved=2ahUKEwic44PfiIeKAxXzdqQEHVo1PXEQM3oECGUQAA)" alt="nestjs" width="50" height="50" style="margin-right: 15px;"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin-right: 15px;"/>
