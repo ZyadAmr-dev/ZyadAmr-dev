@@ -14,7 +14,7 @@ I am a software engineer with a passion for building large-scale projects, focus
 
 ### 🛠️ Tech Stack
 
-<p align="center" style="display: block; overflow-x: auto; white-space: nowrap; width: 100%;">
+<p align="left">
   <!-- Frontend -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" style="margin-right: 15px;"/>
