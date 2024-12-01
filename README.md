@@ -94,7 +94,7 @@
 
 ### 📈 GitHub Stats
 
-<p style="margin-right: 10px">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)</p>
+<p style="margin-right: 10px">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZyadAmr-dev&show_icons=true&theme=radical)</p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZyadAmr-dev&theme=dark&hide_border=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadAmr-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
