@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Zyad!
 
-
-
 ### 🌟 About Me
 - 💻 I'm a Computer Science student passionate about technology and programming.
 - 🌱 Currently learning: [Insert what you're currently learning, e.g., Machine Learning, Web Development, etc.]
@@ -97,6 +95,11 @@
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyadamr-dev&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyadamr-dev&layout=compact&theme=radical)
+![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social)
+![GitHub forks](https://img.shields.io/github/forks/username/repository?style=social)
+![GitHub issues](https://img.shields.io/github/issues/username/repository)
+![GitHub contributors](https://img.shields.io/github/contributors/username/repository?color=orange)
+
 
 ---
 
