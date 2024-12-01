@@ -21,7 +21,7 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Some Tools I Use:
 
 <p align="left">
   <!-- Frontend -->
