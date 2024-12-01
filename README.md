@@ -101,6 +101,16 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 ---
 
+### 🔗 Misc
+
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+- [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@yourname)  
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/yourusername)  
+- [![Codeforces](https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourname)
+
+---
+
 ### 📈 GitHub Statistics
 
 
@@ -110,15 +120,6 @@ I am a **software engineer** passionate about building **large-scale projects** 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZyadAmr-dev&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZyadAmr-dev&theme=dark&hide_border=false) 
 
----
-
-### 🔗 Misc
-
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-- [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@yourname)  
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/yourusername)  
-- [![Codeforces](https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourname)
 
 
 
