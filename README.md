@@ -83,7 +83,7 @@ I am a software engineer with a passion for building large-scale projects, focus
 
 ---
 
-### 🌟 Projects
+### 🎇 Projects
 
 > Keep it simple, STUPID!
 
@@ -92,7 +92,7 @@ I am a software engineer with a passion for building large-scale projects, focus
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZyadAmr-dev&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZyadAmr-dev&theme=dark&hide_border=false) 
@@ -101,7 +101,7 @@ I am a software engineer with a passion for building large-scale projects, focus
 
 ---
 
-### 📫 Connect With Me
+### 🔗 Connect With Me
 
 <p align="left">
 <a href="https://twitter.com/zyad_onlyone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyad_onlyone" height="30" width="40" /></a>
