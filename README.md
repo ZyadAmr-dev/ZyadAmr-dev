@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
+<img src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://tenor.com/view/im-a-developer-craig-dennis-freecodecamp-im-in-the-it-world-im-a-from-developers-field-gif-22142689)" width="600" /
 
 # Hi there 👋, I'm Zyad!
 
