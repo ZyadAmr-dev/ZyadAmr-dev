@@ -7,7 +7,9 @@ I am a software engineer with a passion for building large-scale projects, focus
 ---
 
 ### 🛠️ Tech Stack
-<p align="center" style="display: inline; overflow-x: auto;">
+
+<p align="center" style="display: block; overflow-x: auto; white-space: nowrap; width: 100%;">
+
   <!-- Frontend -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin-right: 15px;"/>
@@ -29,7 +31,7 @@ I am a software engineer with a passion for building large-scale projects, focus
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin-right: 15px;"/>
   </a>
-<!--   <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <!-- <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/NestJS_logo.svg" alt="nestjs" width="50" height="50" style="margin-right: 15px;"/>
   </a> -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -75,7 +77,9 @@ I am a software engineer with a passion for building large-scale projects, focus
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="margin-right: 15px;"/>
   </a>
+
 </p>
+
 
 ---
 
