@@ -33,12 +33,12 @@
 ### 📫 Connect With Me
 
 <a href="https://www.example.com">
-  <img src="https://github.com/user-attachments/assets/7a548907-75b6-4ef8-a011-e502fd46a5c2" alt="hashnode" style="width: 50px; height: 50px; margin-right: 10px; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/7a548907-75b6-4ef8-a011-e502fd46a5c2" alt="hashnode" style="width: 50px; height: 50px; margin-right: 15px; border-radius: 20px;">
 </a>
 <a href="https://www.example.com">
-  <img src="https://github.com/user-attachments/assets/387a690d-f557-497f-8250-5975e1aee148" alt="linkedin" style="width: 50px; height: 50px; margin-right: 10px; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/387a690d-f557-497f-8250-5975e1aee148" alt="linkedin" style="width: 50px; height: 50px; margin-right: 15px; border-radius: 20px;">
 </a>
 <a href="https://www.example.com">
-  <img src="https://github.com/user-attachments/assets/dd4df14d-74cd-4ece-abad-3100b05d386a" alt="X" style="width: 50px; height: 50px; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/dd4df14d-74cd-4ece-abad-3100b05d386a" alt="X" style="width: 50px; height: 50px; border-radius: 20px;">
 </a>
 
