@@ -1,8 +1,12 @@
 # Hi there 👋, I'm Zyad!
 
-### 📬 Conatct me via: 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+### 📬 Contact me via: 
+
+<p style="display: flex; gap: 10px; align-items: center; margin: 0;">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+</p>
+
 
 
 
