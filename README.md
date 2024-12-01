@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
+
 # Hi there 👋, I'm Zyad!
 
 ### 🌟 About Me
@@ -97,7 +99,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZyadAmr-dev&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadAmr-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)
 
 
 ---
