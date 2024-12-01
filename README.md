@@ -1,11 +1,5 @@
 # Hi there 👋, I'm Zyad!
 
-### 📬 Contact me via: 
-
-<p style="display: flex; gap: 10px; align-items: center; margin: 0;">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-</p>
 
 
 
@@ -13,6 +7,10 @@
 ### 🌟 Who Am I ?
 
 I am a software engineer with a passion for building large-scale projects, focusing on distributed systems and optimization. I apply my skills to simplify complex tasks and improve efficiency, specializing in full-stack web development. My interests include statistics, probability, and mathematics, which I use in data engineering and feature extraction. I am particularly fascinated by the potential of machine learning and deep learning to predict future outcomes and solve real-world problems.
+
+**Contact me via:**
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 
 ---
 
