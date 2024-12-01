@@ -4,7 +4,7 @@
 
 <div align="right">
   
-  **![Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)**
+  **![Followers](https://img.shields.io/github/followers/ZyadAmr-dev?label=Followers&style=social)**
   
 </div>
 
