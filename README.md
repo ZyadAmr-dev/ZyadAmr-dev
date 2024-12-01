@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Zyad!
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 
-[![Generic badge](https://img.shields.io/badge/Status-Active-#28a745.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Language-JavaScript-#ffcc00.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Version-1.0.0-#007bff.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Build-Passing-#28a745.svg)](https://shields.io/)
 
 
 ### 🌟 Who Am I ?
