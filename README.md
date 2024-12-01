@@ -1,9 +1,10 @@
 # Hi there 👋, I'm Zyad!
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<RED>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-Active-#28a745.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Language-JavaScript-#ffcc00.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Version-1.0.0-#007bff.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Build-Passing-#28a745.svg)](https://shields.io/)
+
 
 ### 🌟 Who Am I ?
 
