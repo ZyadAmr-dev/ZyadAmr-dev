@@ -102,7 +102,7 @@ I am a software engineer with a passion for building large-scale projects, focus
 
 ### 🔗 Misc
 
-<p align="left">
+<p align="left" style="display: flex; gap: 10px">
 <!-- <a href="https://twitter.com/zyad_onlyone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyad_onlyone" height="30" width="40" /></a> -->
 
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
