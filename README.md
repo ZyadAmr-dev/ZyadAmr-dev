@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Zyad!
 
 ### 🌟 Who Am I ?
-
+<br>
 I am a software engineer with a passion for building large-scale projects, focusing on distributed systems and optimization. I apply my skills to simplify complex tasks and improve efficiency, specializing in full-stack web development. My interests include statistics, probability, and mathematics, which I use in data engineering and feature extraction. I am particularly fascinated by the potential of machine learning and deep learning to predict future outcomes and solve real-world problems.
-
+<br>
 ---
 
 ### 🛠️ Tech Stack
-
+<br>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; text-decoration:none">
   <!-- Frontend -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -77,8 +77,7 @@ I am a software engineer with a passion for building large-scale projects, focus
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="margin-right: 15px;"/>
   </a>
 </p>
-
-
+<br>
 ---
 
 ### 🌟 Projects
@@ -92,11 +91,12 @@ I am a software engineer with a passion for building large-scale projects, focus
 
 ### 📈 GitHub Stats
 
+<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZyadAmr-dev&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZyadAmr-dev&theme=dark&hide_border=false) 
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadAmr-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<br>
 
 ---
 
