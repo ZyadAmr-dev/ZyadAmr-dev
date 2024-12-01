@@ -6,13 +6,13 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 <br>
 
-<div style="display: inline-block;">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-</div>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)  
 
-<div style="display: inline-block; margin-left: 15px;">
-  <img src="https://img.shields.io/github/followers/ZyadAmr-dev?label=Followers&style=social" alt="Followers">
+<div align="right">
+  
+  **![Followers](https://img.shields.io/github/followers/ZyadAmr-dev?label=Followers&style=social)**
+  
 </div>
 
 
