@@ -8,13 +8,11 @@
   
 </div>
 
-
 I am a **software engineer** passionate about building **large-scale projects** with a focus on **distributed systems** and **optimization**. I strive to simplify complex tasks and improve efficiency through **full-stack development**, leveraging my love for **statistics**, **mathematics**, and **data science**. My fascination with **machine learning** and **deep learning** drives me to explore predictive modeling and solve real-world problems.
 
 <br>
 
 **📫 Find me at:**
-
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)  
@@ -90,8 +88,6 @@ I am a **software engineer** passionate about building **large-scale projects** 
   </a>
 </p>
 
-
-
 ### 🎇 Projects
 
 > Keep it simple, STUPID!
@@ -103,17 +99,13 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 ### 📈 GitHub Statistics
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadAmr-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZyadAmr-dev&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZyadAmr-dev&theme=dark&hide_border=false) 
 
 ---
 
 ### 🔗 Misc
-
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 - [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@yourname)  
