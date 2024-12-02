@@ -101,9 +101,10 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadAmr-dev&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadAmr-dev&layout=compact&theme=transparent)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZyadAmr-dev&show_icons=true&theme=transparent)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZyadAmr-dev&theme=dark&hide_border=false) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZyadAmr-dev&theme=dark)](https://git.io/streak-stats)
+
 </div>
 
 ---
