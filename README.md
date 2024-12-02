@@ -102,7 +102,7 @@ I am a **software engineer** passionate about building **large-scale projects** 
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadAmr-dev&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZyadAmr-dev&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyadAmr-dev&hide=contribs,prs)
 
 </div>
 
