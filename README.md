@@ -110,7 +110,7 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 ### 🔗 Misc
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zyad-amr-14b971309/)  
+- [![Meduim](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zyadamr.)
 - [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@ZyadAmrdev)  
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/u/ZyadAmr-dev/)  
 - [![Codeforces](https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ziiad309)
