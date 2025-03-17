@@ -90,18 +90,34 @@ I am a **software engineer** passionate about building **large-scale projects** 
 -->
 
 
-
-```js
+<table>
+  <tr>
+    <!-- Left cell: Code snippet -->
+    <td valign="top" width="50%">
+      <pre><code class="language-js">
 // My Technical Stack
 const mySkills = {
-    languages: ["JavaScript", "Python", "C++", "C#"],
-    frameworks: ["Node.js", "React.js", ".NET", "Express"],
+    languages: ["JavaScript", "TypeScript", "Python", "C++", "Go"],
+    frameworks: ["Node.js", "Express", "Nest"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    tools: ["Docker", "Git", "Linux", "Neovim"]
+    tools: ["Docker", "Git", "Linux", "Neovim", "FreeBSD", "Postman"]
 };
 
-console.log("Skills Loaded Successfully! 🚀");
-
+console.log("Skills Loaded Successfully! 🟢");
+      </code></pre>
+    </td>
+    <!-- Right cell: Text description -->
+    <td valign="top" width="50%">
+      <h3>About My Skills</h3>
+      <ul>
+        <li>Proficient in modern JavaScript and TypeScript.</li>
+        <li>Experienced in building scalable backends with Node.js and Express.</li>
+        <li>Skilled in various databases and DevOps tools.</li>
+        <li>Passionate about writing clean, maintainable code.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 
