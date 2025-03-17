@@ -89,7 +89,7 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 -->
 
-![My Demo GIF](Untitled video - Made with Clipchamp.gif)
+![My Demo GIF](https://github.com/ZyadAmr-dev/ZyadAmr-dev/blob/main/Typing%20skills.gif)
 
 
 ### 🎇 Projects
