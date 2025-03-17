@@ -1,4 +1,4 @@
-## Hi , I'm Zyad! - Software Engineer
+## Hi👋 , I'm Zyad! - Software Engineer
 
 <br>
 
@@ -91,6 +91,10 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 
 
+<table>
+  <tr>
+    <td>
+
 ```js
 // My Technical Stack
 const mySkills = {
@@ -101,7 +105,7 @@ const mySkills = {
 };
 
 console.log("Skills Loaded Successfully! 🚀");
-```
+
 
 
 
