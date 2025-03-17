@@ -2,11 +2,14 @@
 
 ### 🌟 About Me 
 
-<div align="right">
-  
+<div align="left">
+
   **![Followers](https://img.shields.io/github/followers/ZyadAmr-dev?label=Followers&style=social)**
-  
+  &nbsp;&nbsp;
+  **![GitHub User's stars](https://img.shields.io/github/stars/ZyadAmr-dev?affiliations=OWNER&style=social)**
+
 </div>
+
 
 I am a **software engineer** passionate about building **large-scale projects** with a focus on **distributed systems** and **optimization**. I strive to simplify complex tasks and improve efficiency through **full-stack development**, leveraging my love for **statistics**, **mathematics**, and **data science**. My fascination with **machine learning** and **deep learning** drives me to explore predictive modeling and solve real-world problems.
 
