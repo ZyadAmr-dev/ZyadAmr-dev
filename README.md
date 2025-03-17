@@ -1,7 +1,6 @@
 ## Hi👋 , I'm Zyad! - Software Engineer
-![StopCodingMyHonestReactionGIF](https://github.com/user-attachments/assets/cc063bcf-547f-4d07-9ec9-262173a1f1d8)
-
-<br>
+<!-- ![StopCodingMyHonestReactionGIF](https://github.com/user-attachments/assets/cc063bcf-547f-4d07-9ec9-262173a1f1d8) -->
+![CodeWorksCodeNotWorkingGIF](https://github.com/user-attachments/assets/9621ebf5-3d76-4bcd-b98a-9f9a29c9b29d)
 
 ### 🌟 About Me 
 
