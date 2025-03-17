@@ -1,10 +1,12 @@
-## Hi *`<coders/>`* 👋, I'm Zyad!
+## Hi 👋, I'm Zyad!
 
 ### 🌟 About Me 
 
-<div align="right">
+<div align="left">
   
   **![Followers](https://img.shields.io/github/followers/ZyadAmr-dev?label=Followers&style=social)**
+
+  **![GitHub Repo stars](https://img.shields.io/github/stars/ZyadAmr-dev/my-repo?style=social)**
   
 </div>
 
