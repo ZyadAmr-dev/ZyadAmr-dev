@@ -1,5 +1,7 @@
 ## Hi , I'm Zyad! - Software Engineer
 
+<br>
+
 ### 🌟 About Me 
 
 <div align="left">
@@ -14,12 +16,13 @@
 I am a **software engineer** passionate about building **large-scale projects** with a focus on **distributed systems** and **optimization**. I strive to simplify complex tasks and improve efficiency through **full-stack development**, leveraging my love for **statistics**, **mathematics**, and **data science**. My fascination with **machine learning** and **deep learning** drives me to explore predictive modeling and solve real-world problems.
 
 <br>
-<br> 
 
-### 🛠️ Some Tools I Use
+### 🛠️ Toolkit
+
+<!-- 
 
 <p align="left">
-  <!-- Frontend -->
+
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" style="margin-right: 15px;"/>
   </a>
@@ -33,7 +36,6 @@ I am a **software engineer** passionate about building **large-scale projects** 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" style="margin-right: 15px;"/>
   </a>
 
-  <!-- Backend -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" style="margin-right: 15px;"/>
   </a>
@@ -53,7 +55,7 @@ I am a **software engineer** passionate about building **large-scale projects** 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30" style="margin-right: 15px;"/>
   </a>
 
-  <!-- Machine Learning -->
+
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="30" height="30" style="margin-right: 15px;"/>
   </a>
@@ -70,7 +72,7 @@ I am a **software engineer** passionate about building **large-scale projects** 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30" style="margin-right: 15px;"/>
   </a>
 
-  <!-- Deep Learning -->
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" style="margin-right: 15px;"/>
   </a>
@@ -84,6 +86,27 @@ I am a **software engineer** passionate about building **large-scale projects** 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30" style="margin-right: 15px;"/>
   </a>
 </p>
+
+-->
+
+
+
+```js
+// My Technical Stack
+const mySkills = {
+    languages: ["JavaScript", "Python", "C++", "C#"],
+    frameworks: ["Node.js", "React.js", ".NET", "Express"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    tools: ["Docker", "Git", "Linux", "Neovim"]
+};
+
+console.log("Skills Loaded Successfully! 🚀");
+```
+
+
+
+
+
 
 ### 🎇 Projects
 
