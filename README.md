@@ -90,11 +90,32 @@ I am a **software engineer** passionate about building **large-scale projects** 
 -->
 
 
-<table>
-  <tr>
-    <!-- Left cell: Code snippet -->
-    <td valign="top" width="50%">
-      <pre><code class="language-js">
+<div align="left">
+  <table>
+    <tr>
+      <!-- Left Cell: Bullet Points -->
+      <td valign="top" width="50%">
+        <h3>Talking about Personal Stuffs:</h3>
+        <ul>
+          <li>I'm currently developing stuff with JavaScript/TypeScript.</li>
+          <li>I'm currently learning about Go, Linux, Networking, Ansible and playing around with Raspberry Pis.</li>
+          <li>I write blogs <a href="#">here</a>!</li>
+          <li>I have started sending out newsletters, subscribe <a href="#">here</a>.</li>
+          <li>I prefer using tabs over spaces.</li>
+          <li>How to reach me: me@akashrajpurohit.com</li>
+        </ul>
+
+        <h3>My Absolute Favorites:</h3>
+        <ul>
+          <li>I love exploring new tech stacks and developing new stuff.</li>
+          <li>Reading & writing tech blogs whenever possible.</li>
+          <li>Hackathons & coding competitions.</li>
+        </ul>
+      </td>
+
+      <!-- Right Cell: Code Snippet (Replacing the cat) -->
+      <td valign="top" width="50%">
+        <pre><code class="language-js">
 // My Technical Stack
 const mySkills = {
     languages: ["JavaScript", "TypeScript", "Python", "C++", "Go"],
@@ -104,24 +125,11 @@ const mySkills = {
 };
 
 console.log("Skills Loaded Successfully! 🟢");
-      </code></pre>
-    </td>
-    <!-- Right cell: Text description -->
-    <td valign="top" width="50%">
-      <h3>About My Skills</h3>
-      <ul>
-        <li>Proficient in modern JavaScript and TypeScript.</li>
-        <li>Experienced in building scalable backends with Node.js and Express.</li>
-        <li>Skilled in various databases and DevOps tools.</li>
-        <li>Passionate about writing clean, maintainable code.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
-
-
+        </code></pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### 🎇 Projects
@@ -137,8 +145,8 @@ console.log("Skills Loaded Successfully! 🟢");
 
 <div align="left">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadAmr-dev&layout=compact&theme=transparent)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZyadAmr-dev&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadAmr-dev&layout=compact&theme=transparent)
 
 </div>
 
