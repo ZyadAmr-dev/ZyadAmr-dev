@@ -96,12 +96,14 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 ### 📈 GitHub Statistics
 
-<div align="center">
+<div align="left">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadAmr-dev&layout=compact&theme=transparent)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZyadAmr-dev&show_icons=true&theme=transparent)
 
 </div>
+
+<!--
 
 ---
 
@@ -111,3 +113,5 @@ I am a **software engineer** passionate about building **large-scale projects** 
 - [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@ZyadAmrdev)  
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/u/ZyadAmr-dev/)  
 - [![Codeforces](https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ziiad309)
+
+-->
