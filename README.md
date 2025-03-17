@@ -91,10 +91,6 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 
 
-<table>
-  <tr>
-    <td>
-
 ```js
 // My Technical Stack
 const mySkills = {
