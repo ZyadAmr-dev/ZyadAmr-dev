@@ -89,8 +89,17 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 -->
 
-![My Demo GIF](https://github.com/ZyadAmr-dev/ZyadAmr-dev/blob/main/Typing%20skills.gif)
+```js
+// My Technical Stack
+const mySkills = {
+  languages: ["JavaScript", "TypeScript", "Python", "C++", "Go"],
+  frameworks: ["Node.js", "Express", "Nest"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL"],
+  tools: ["Docker", "Git", "Linux", "Neovim", "FreeBSD", "Postman"]
+};
 
+console.log("Skills Loaded Successfully! 🟢");
+```
 
 ### 🎇 Projects
 
