@@ -1,26 +1,17 @@
-## Hi 👋, I'm Zyad!
+## Hi , I'm Zyad! - Software Engineer
 
 ### 🌟 About Me 
 
-<div align="left">
-
+<div align="right">
+  
   **![Followers](https://img.shields.io/github/followers/ZyadAmr-dev?label=Followers&style=social)**
-  &nbsp;&nbsp;
-  **![GitHub User's stars](https://img.shields.io/github/stars/ZyadAmr-dev?affiliations=OWNER&style=social)**
-
+  
 </div>
-
 
 I am a **software engineer** passionate about building **large-scale projects** with a focus on **distributed systems** and **optimization**. I strive to simplify complex tasks and improve efficiency through **full-stack development**, leveraging my love for **statistics**, **mathematics**, and **data science**. My fascination with **machine learning** and **deep learning** drives me to explore predictive modeling and solve real-world problems.
 
 <br>
-
-**📫 Find me at**
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zyad-amr-14b971309/)  
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Zyad_onlyone)
-
----
+<br> 
 
 ### 🛠️ Some Tools I Use
 
