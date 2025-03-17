@@ -89,47 +89,7 @@ I am a **software engineer** passionate about building **large-scale projects** 
 
 -->
 
-
-<div align="left">
-  <table>
-    <tr>
-      <!-- Left Cell: Bullet Points -->
-      <td valign="top" width="50%">
-        <h3>Talking about Personal Stuffs:</h3>
-        <ul>
-          <li>I'm currently developing stuff with JavaScript/TypeScript.</li>
-          <li>I'm currently learning about Go, Linux, Networking, Ansible and playing around with Raspberry Pis.</li>
-          <li>I write blogs <a href="#">here</a>!</li>
-          <li>I have started sending out newsletters, subscribe <a href="#">here</a>.</li>
-          <li>I prefer using tabs over spaces.</li>
-          <li>How to reach me: me@akashrajpurohit.com</li>
-        </ul>
-
-        <h3>My Absolute Favorites:</h3>
-        <ul>
-          <li>I love exploring new tech stacks and developing new stuff.</li>
-          <li>Reading & writing tech blogs whenever possible.</li>
-          <li>Hackathons & coding competitions.</li>
-        </ul>
-      </td>
-
-      <!-- Right Cell: Code Snippet (Replacing the cat) -->
-      <td valign="top" width="50%">
-        <pre><code class="language-js">
-// My Technical Stack
-const mySkills = {
-    languages: ["JavaScript", "TypeScript", "Python", "C++", "Go"],
-    frameworks: ["Node.js", "Express", "Nest"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    tools: ["Docker", "Git", "Linux", "Neovim", "FreeBSD", "Postman"]
-};
-
-console.log("Skills Loaded Successfully! 🟢");
-        </code></pre>
-      </td>
-    </tr>
-  </table>
-</div>
+![My Demo GIF](Untitled video - Made with Clipchamp.gif)
 
 
 ### 🎇 Projects
